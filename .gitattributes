@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Define C# specific diff and ensure solution/project files use CRLF
+*.cs      text diff=csharp
+*.cshtml  text diff=html
+*.csx     text diff=csharp
+*.sln     text eol=crlf
+*.csproj  text eol=crlf
