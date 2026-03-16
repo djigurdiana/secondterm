@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="11.03/11.03.csproj" />
+  <Project Path="Shapes/Shapes.csproj" />
+</Solution>
