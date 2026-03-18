@@ -13,6 +13,7 @@ public class Point
         X = x;
         Y = y;
     }
+    public override string Tostring() => $"({X}, {Y})";
 
 }
 
