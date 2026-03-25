@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="enum/enum.csproj" />
+  <Project Path="HospitalApp/HospitalApp.csproj" />
+</Solution>
